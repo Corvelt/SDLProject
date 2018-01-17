@@ -1,0 +1,12 @@
+﻿  Swarm.cpp
+  Screen.cpp
+c:\users\owner\desktop\programs\c++ programs\sdl\sdl\screen.h(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Particles.cpp
+  Main.cpp
+c:\users\owner\desktop\programs\c++ programs\sdl\sdl\screen.h(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\owner\desktop\programs\c++ programs\sdl\sdl\main.cpp(16): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\owner\desktop\programs\c++ programs\sdl\sdl\main.cpp(48): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\owner\desktop\programs\c++ programs\sdl\sdl\main.cpp(49): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+  SDL.vcxproj -> C:\Users\Owner\Desktop\Programs\C++ Programs\SDL\Debug\SDL.exe
+  SDL.vcxproj -> C:\Users\Owner\Desktop\Programs\C++ Programs\SDL\Debug\SDL.pdb (Partial PDB)
